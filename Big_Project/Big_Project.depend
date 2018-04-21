@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1443331591 source:c:\users\black\desktop\big_project\console.cpp
+	<stdio.h>
+	<conio.h>
+	"console.h"
+
+1522568840 c:\users\black\desktop\big_project\console.h
+	<windows.h>
+
+1523112220 source:c:\users\black\game\big_project\console.cpp
+	<stdio.h>
+	<conio.h>
+	"console.h"
+
+1524110989 c:\users\black\game\big_project\console.h
+	<windows.h>
+
+1524317720 source:c:\users\black\game\big_project\main.cpp
+	<iostream>
+	"console.h"
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<windows.h>
+	<stdint-gcc.h>
+	"IstructKhoiGach.h"
+	"ItaoKhoiGach.h"
+
+1523339682 source:c:\users\black\game\big_project\drawmap.cpp
+
+1523450508 source:c:\users\black\game\big_project\moveblock.cpp
+	"MoveBlock.h"
+
+1524111307 c:\users\black\game\big_project\moveblock.h
+
+1524111307 c:\users\black\game\big_project\taokhoigach.h
+
+1524111307 c:\users\black\game\big_project\drawmap.h
+
+1524317568 source:c:\users\black\game\big_project\structkhoigach.cpp
+	"IstructKhoiGach.h"
+
+1524317568 c:\users\black\game\big_project\istructkhoigach.h
+
+1524317741 c:\users\black\game\big_project\itaokhoigach.h
+	"IstructKhoiGach.h"
+
