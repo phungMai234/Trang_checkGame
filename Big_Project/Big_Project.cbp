@@ -32,10 +32,12 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="IdiChuyenKhoiGach.h" />
 		<Unit filename="IstructKhoiGach.h" />
 		<Unit filename="ItaoKhoiGach.h" />
 		<Unit filename="console.cpp" />
 		<Unit filename="console.h" />
+		<Unit filename="diChuyenKhoiGach.cpp" />
 		<Unit filename="main.cpp" />
 		<Unit filename="structKhoiGach.cpp" />
 		<Unit filename="taoKhoiGach.cpp" />
