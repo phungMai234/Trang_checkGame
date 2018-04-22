@@ -32,18 +32,20 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="IdiChuyenKhoiGach.h" />
-		<Unit filename="IdiChuyenVienGach.h">
-			<Option target="&lt;{~None~}&gt;" />
-		</Unit>
+		<Unit filename="INFO_game.cpp" />
+		<Unit filename="I_INFO_game.h" />
+		<Unit filename="Imenu.h" />
 		<Unit filename="IstructKhoiGach.h" />
+		<Unit filename="Istruct_INFO.h" />
 		<Unit filename="ItaoKhoiGach.h" />
 		<Unit filename="console.cpp" />
 		<Unit filename="console.h" />
-		<Unit filename="diChuyenKhoiGach.cpp" />
-		<Unit filename="diChuyenVienGach.cpp" />
 		<Unit filename="main.cpp" />
+		<Unit filename="menu.cpp" />
 		<Unit filename="structKhoiGach.cpp" />
+		<Unit filename="struct_INFO.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="taoKhoiGach.cpp" />
 		<Extensions>
 			<code_completion />

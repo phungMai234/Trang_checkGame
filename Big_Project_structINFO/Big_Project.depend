@@ -15,7 +15,7 @@
 1524110989 c:\users\black\game\big_project\console.h
 	<windows.h>
 
-1524317720 source:c:\users\black\game\big_project\main.cpp
+1524401511 source:c:\users\black\game\big_project\main.cpp
 	<iostream>
 	"console.h"
 	<cstdlib>
@@ -25,6 +25,9 @@
 	<stdint-gcc.h>
 	"IstructKhoiGach.h"
 	"ItaoKhoiGach.h"
+	"Imenu.h"
+	"Istruct_INFO.h"
+	"I_INFO_game.h"
 
 1523339682 source:c:\users\black\game\big_project\drawmap.cpp
 
@@ -45,39 +48,20 @@
 1524317741 c:\users\black\game\big_project\itaokhoigach.h
 	"IstructKhoiGach.h"
 
-1523112220 source:c:\users\black\trang_checkgame\big_project\console.cpp
-	<stdio.h>
+1524317803 source:c:\users\black\game\big_project\taokhoigach.cpp
+	"ItaoKhoiGach.h"
+	<ctime>
 	<conio.h>
-	"console.h"
-
-1524110989 c:\users\black\trang_checkgame\big_project\console.h
 	<windows.h>
 
-1524319039 source:c:\users\black\trang_checkgame\big_project\main.cpp
+1524400821 c:\users\black\game\big_project\imenu.h
+
+1524401211 source:c:\users\black\game\big_project\menu.cpp
+	"Imenu.h"
 	<iostream>
-	"console.h"
-	<cstdlib>
-	<ctime>
 	<conio.h>
-	<windows.h>
-	<stdint-gcc.h>
-	"IstructKhoiGach.h"
-	"ItaoKhoiGach.h"
-	"IdiChuyenKhoiGach.h"
 
-1524319039 c:\users\black\trang_checkgame\big_project\istructkhoigach.h
+1524401908 c:\users\black\game\big_project\istruct_info.h
 
-1524317741 c:\users\black\trang_checkgame\big_project\itaokhoigach.h
-	"IstructKhoiGach.h"
-
-1524317568 source:c:\users\black\trang_checkgame\big_project\structkhoigach.cpp
-	"IstructKhoiGach.h"
-
-1524317803 source:c:\users\black\trang_checkgame\big_project\taokhoigach.cpp
-	"ItaoKhoiGach.h"
-	<ctime>
-	<conio.h>
-	<windows.h>
-
-1524365506 c:\users\black\trang_checkgame\big_project\idichuyenkhoigach.h
+1524401510 c:\users\black\game\big_project\i_info_game.h
 
